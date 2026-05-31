@@ -35,7 +35,7 @@
         <!-- Persistance et injection de dependances -->
         <sqlite.jdbc.version>3.49.1.0</sqlite.jdbc.version>
         <guice.version>7.0.0</guice.version>
-        <hikaricp.version>6.3.0</hikaricp.version>
+        <hikaricp.version>7.0.2</hikaricp.version>
 
         <!-- Test dependencies versions -->
         <junit.jupiter.version>6.0.3</junit.jupiter.version>
