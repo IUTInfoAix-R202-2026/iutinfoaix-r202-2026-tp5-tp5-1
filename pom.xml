@@ -33,7 +33,7 @@
         <git.build.hook.plugin.version>3.6.0</git.build.hook.plugin.version>
 
         <!-- Persistance et injection de dependances -->
-        <sqlite.jdbc.version>3.49.1.0</sqlite.jdbc.version>
+        <sqlite.jdbc.version>3.53.1.0</sqlite.jdbc.version>
         <guice.version>7.0.0</guice.version>
         <hikaricp.version>6.3.0</hikaricp.version>
 
